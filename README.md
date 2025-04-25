@@ -73,19 +73,19 @@ TIPOS DE DATOS
 
 
 Primitivo
-Los tipos primitivos son los datos más básicos que maneja Python. Incluyen los números enteros (int), números decimales (float), booleanos (bool) y cadenas de texto (str). Son la base para construir otros tipos de datos más complejos.
+- Los tipos primitivos son los datos más básicos que maneja Python. Incluyen los números enteros (int), números decimales (float), booleanos (bool) y cadenas de texto (str). Son la base para construir otros tipos de datos más complejos.
 
 Especial
-Los tipos especiales representan valores únicos o específicos en Python. Por ejemplo, NoneType representa la ausencia de valor con None, y complex permite trabajar con números complejos.
+- Los tipos especiales representan valores únicos o específicos en Python. Por ejemplo, NoneType representa la ausencia de valor con None, y complex permite trabajar con números complejos.
 
 Colección
-Las colecciones son tipos de datos que agrupan múltiples valores en una sola estructura. Ejemplos son list, tuple, set, frozenset y dict. Cada uno maneja los datos de forma distinta (ordenada, mutable, sin duplicados, etc.).
+- Las colecciones son tipos de datos que agrupan múltiples valores en una sola estructura. Ejemplos son list, tuple, set, frozenset y dict. Cada uno maneja los datos de forma distinta (ordenada, mutable, sin duplicados, etc.).
 
 Numérico
-Los tipos numéricos permiten trabajar con valores matemáticos. Python maneja int para enteros, float para decimales y complex para números complejos (con parte real e imaginaria).
+- Los tipos numéricos permiten trabajar con valores matemáticos. Python maneja int para enteros, float para decimales y complex para números complejos (con parte real e imaginaria).
 
 Rango
-El tipo range representa una secuencia de números, comúnmente usado en bucles for. Es muy eficiente porque no genera todos los números a la vez, sino que los produce a medida que se recorren.
+- El tipo range representa una secuencia de números, comúnmente usado en bucles for. Es muy eficiente porque no genera todos los números a la vez, sino que los produce a medida que se recorren.
 
 Binario
-Los tipos binarios (bytes, bytearray, memoryview) permiten trabajar con datos en formato binario. Son útiles para manipular archivos, imágenes, transmisiones de red y otros formatos de bajo nivel.
+- Los tipos binarios (bytes, bytearray, memoryview) permiten trabajar con datos en formato binario. Son útiles para manipular archivos, imágenes, transmisiones de red y otros formatos de bajo nivel.
