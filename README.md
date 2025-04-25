@@ -56,10 +56,11 @@ CARACTERISTICAS PRINCIPALES:
 - Internet de las cosas (IoT)
 - Mucho más...
   
-CURIOSIDAD
+CURIOSIDADES
+
 El nombre Python no viene del animal 🐍, sino de un grupo de comedia británico llamado "Monty Python's Flying Circus".
 
 Tu primer programa en Python
-Veamos el clásico "¡Hola Mundo!":
 
+Veamos el clásico "¡Hola Mundo!":
 print("¡Hola, mundo!")
