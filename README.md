@@ -69,6 +69,9 @@ print("¡Hola, mundo!")
 
 Tipos de datos
 
+![image](https://github.com/user-attachments/assets/97252244-4901-474b-9f8f-fc5b77ea8a16)
+
+
 - Categoría	Tipo de Dato	Ejemplo	Descripción
 - Primitivo	int	5, -10, 0	Números enteros
 - Primitivo	float	3.14, -0.5, 0.0	Números decimales (reales)
