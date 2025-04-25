@@ -69,7 +69,9 @@ print("¡Hola, mundo!")
 
 TIPOS DE DATOS
 
+
 ![image](https://github.com/user-attachments/assets/97252244-4901-474b-9f8f-fc5b77ea8a16)
+
 
 
 Primitivo
