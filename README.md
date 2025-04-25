@@ -11,6 +11,8 @@ Conceptos
 - Pedir información al usuario: input().
 - Convertir tipos de datos: int(), float(), str().
 - ¿Qué es un error? Errores comunes para principiantes.
+
+
 🔵 Lógica de programación
 - Comparar datos: (==, !=, <, >, <=, >=).
 - Tomar decisiones: if, else, elif.
@@ -19,13 +21,15 @@ Conceptos
 - Qué es la indentación y por qué es tan importante en Python.
 - Buenas prácticas al nombrar variables (nombres claros, sin espacios).
 - ¿Qué hacer cuando algo no funciona? (buscar, leer errores, no frustrarse).
+
+
 🔵 Estructuras de control
 - Repetir acciones con bucles: for y while.
 - Salir de un bucle antes de tiempo: break y continue.
 - Manejo básico de errores: try-except.
 
 
-lectura
+LECTURA
 
 Introducción a Python
 - Python es un lenguaje de programación de alto nivel, interpretado y de propósito general.
@@ -37,7 +41,7 @@ Introducción a Python
 - Tiene una sintaxis limpia que favorece buenas prácticas de programación.
 - Es ampliamente usado en áreas como desarrollo web, ciencia de datos, inteligencia artificial, automatización, y más.
   
-Características principales
+CARACTERISTICAS PRINCIPALES:
 - Sintaxis sencilla y similar al inglés.
 - Multiparadigma: soporta programación orientada a objetos, funcional y procedural.
 - Gran ecosistema de librerías y frameworks.
@@ -52,7 +56,7 @@ Características principales
 - Internet de las cosas (IoT)
 - Mucho más...
   
-Curiosidad
+CURIOSIDAD
 El nombre Python no viene del animal 🐍, sino de un grupo de comedia británico llamado "Monty Python's Flying Circus".
 
 Tu primer programa en Python
