@@ -67,33 +67,10 @@ print("¡Hola, mundo!")
 
 
 
-Tipos de datos
+TIPOS DE DATOS
 
 ![image](https://github.com/user-attachments/assets/97252244-4901-474b-9f8f-fc5b77ea8a16)
 
-
-- Categoría	Tipo de Dato	Ejemplo	Descripción
-- Primitivo	int	5, -10, 0	Números enteros
-- Primitivo	float	3.14, -0.5, 0.0	Números decimales (reales)
-- Primitivo	bool	True, False	Booleanos: verdadero o falso
-
-
-
-
-
-
-Primitivo	str	"Hola", 'Python'	Cadenas de texto
-Especial	NoneType	None	Representa ausencia de valor
-Numérico	complex	1 + 2j, -3j	Números complejos
-Colección	list	[1, 2, 3], ['a', 'b']	Lista ordenada y mutable
-Colección	tuple	(1, 2), ('x', 'y')	Tupla ordenada e inmutable
-Colección	set	{1, 2, 3}	Conjunto sin duplicados, no ordenado
-Colección	frozenset	frozenset([1, 2, 3])	Conjunto inmutable
-Colección	dict	{'a': 1, 'b': 2}	Diccionario (pares clave: valor)
-Rango	range	range(5)	Secuencia de números (usado en bucles)
-Binario	bytes	b'Hola'	Secuencia inmutable de bytes
-Binario	bytearray	bytearray(5)	Array mutable de bytes
-Binario	memoryview	memoryview(b'Hola')	Vista de un bloque de memoria
 
 Primitivo
 Los tipos primitivos son los datos más básicos que maneja Python. Incluyen los números enteros (int), números decimales (float), booleanos (bool) y cadenas de texto (str). Son la base para construir otros tipos de datos más complejos.
